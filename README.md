@@ -7,3 +7,7 @@
 # Cheatsheets
 ## Forensic
 - Windows Forensic Analysis (login needed) [SANS](https://www.sans.org/posters/windows-forensic-analysis/)
+- [NTFS Reference sheet](https://www.writeblocked.org/resources/NTFS_CHEAT_SHEETS.pdf)
+
+## CTF
+- John Hammond [Katana-Cheatsheet](https://github.com/JohnHammond/ctf-katana)
