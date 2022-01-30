@@ -6,7 +6,10 @@
 - Cipher Identifier and Analyzer [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)
 
 ## Reverse shell
+### Windows
 -  reverse shell based on dynamically looked up Win32 API calls [DynWin32-ReverseShell.ps1](https://gist.github.com/qtc-de/a87b2c97fd9e0330ad2dc67789a62ba5)
+### PHP
+- [PentestMonkey](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php)
 
 # Cheatsheets
 ## Forensic
