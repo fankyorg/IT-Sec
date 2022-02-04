@@ -12,6 +12,9 @@
 - [PentestMonkey](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php)
 
 # Cheatsheets
+## General
+- [Blue Team Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/BlueTeam-ChrisDavis.pdf) by Chris Davis 
+
 ## Forensic
 - Windows Forensic Analysis (login needed) [SANS](https://www.sans.org/posters/windows-forensic-analysis/)
 - [NTFS Reference sheet](https://www.writeblocked.org/resources/NTFS_CHEAT_SHEETS.pdf)
