@@ -15,6 +15,9 @@
 ## General
 - [Blue Team Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/BlueTeam-ChrisDavis.pdf) by Chris Davis 
 
+## Windows
+- SANS hunt evil poster [SANS](https://www.sans.org/posters/hunt-evil/) [GitHub](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/165.pdf)
+
 ## Forensic
 - Windows Forensic Analysis (login needed) [SANS](https://www.sans.org/posters/windows-forensic-analysis/)
 - [NTFS Reference sheet](https://www.writeblocked.org/resources/NTFS_CHEAT_SHEETS.pdf)
