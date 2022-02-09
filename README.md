@@ -19,6 +19,7 @@
 
 ## Windows
 - SANS hunt evil poster [SANS](https://www.sans.org/posters/hunt-evil/) [GitHub](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/165.pdf)
+- [Linux Paths](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/Linux-PathCheatsheet.jpg)
 
 ## Forensic
 - Windows Forensic Analysis (login needed) [SANS](https://www.sans.org/posters/windows-forensic-analysis/)
