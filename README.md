@@ -8,6 +8,8 @@
 
 ## Privilege escalation
 - [PEASS-ng](https://github.com/carlospolop/PEASS-ng)
+### Windows
+- [PowerUp](https://github.com/PowerShellMafia/PowerSploit/blob/master/Privesc/PowerUp.ps1)
 
 ## Reverse shell
 ### Windows
