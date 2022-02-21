@@ -40,5 +40,8 @@
 - [Hacking Tools 1](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/HackingToolsCheatSheet1.jpg)
 - [Hacking Tools 2](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/HackingToolsCheatSheet2.jpg)
 
+## Network
+-[OSI Model Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/osicheatsheet.jpg)
+
 ## CTF
 - John Hammond [Katana-Cheatsheet](https://github.com/JohnHammond/ctf-katana)
