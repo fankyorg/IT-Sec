@@ -44,6 +44,7 @@
 
 ## Network
 - [OSI Model Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/osicheatsheet.jpg)
+- [SNORT Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/snort-cheatsheet.pdf)
 
 ## CTF
 - John Hammond [Katana-Cheatsheet](https://github.com/JohnHammond/ctf-katana)
