@@ -6,7 +6,7 @@
 - Command line based collection of forensic tools [The Sleuth Kit](http://sleuthkit.org/)
 - Cipher Identifier and Analyzer [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)
 - Super Timeline [PLASO](https://github.com/log2timeline/plaso)
-- forensic timeline analysis [Timesketch](https://github.com/google/timesketch)
+- forensic timeline analysis [Timesketch](https://github.com/google/timesketch) & [SearchQueryGuide](https://github.com/kovakina/timesketch/blob/master/docs/SearchQueryGuide.md)
 
 ## Encoding
 - [Cyberchef](https://gchq.github.io/CyberChef/) a web app for encryption, encoding, compression and data analysis
