@@ -48,3 +48,6 @@
 
 ## CTF
 - John Hammond [Katana-Cheatsheet](https://github.com/JohnHammond/ctf-katana)
+
+# Links
+- [IT-Forensik Wiki](https://it-forensik.fiw.hs-wismar.de/index.php/Hauptseite)
