@@ -5,6 +5,9 @@
 - Easy to use GUI-based [Autopsy](https://www.autopsy.com/)
 - Command line based collection of forensic tools [The Sleuth Kit](http://sleuthkit.org/)
 - Cipher Identifier and Analyzer [Boxentriq](https://www.boxentriq.com/code-breaking/cipher-identifier)
+- Super Timeline [PLASO](https://github.com/log2timeline/plaso)
+
+## Encoding
 - [Cyberchef](https://gchq.github.io/CyberChef/) a web app for encryption, encoding, compression and data analysis
 
 ## Privilege escalation
