@@ -52,7 +52,7 @@
 - [SNORT Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/snort-cheatsheet.pdf)
 
 ## NMAP
-- [NMAP CheatSheets](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/nmap.jpg)
+- [NMAP Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/nmap.jpg)
 - [NMAP Scan types](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/nmap-scantypes.jpg)
 
 ## CTF
