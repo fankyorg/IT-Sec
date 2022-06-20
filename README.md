@@ -56,6 +56,7 @@
 ## NMAP
 - [NMAP Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/nmap.jpg)
 - [NMAP Scan types](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/nmap-scantypes.jpg)
+- [NMAP mindmap](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/nmap-mindmap.png)
 
 ## CTF
 - John Hammond [Katana-Cheatsheet](https://github.com/JohnHammond/ctf-katana)
