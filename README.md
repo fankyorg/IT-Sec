@@ -51,7 +51,6 @@
 
 ## Network
 - [OSI Model Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/osicheatsheet.jpg)
-- [SNORT Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/snort-cheatsheet.pdf)
 - [SNORT TryHackME](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/Snort%20Cheatsheet%20-%20TryHackMe.pdf)
 
 ## NMAP
