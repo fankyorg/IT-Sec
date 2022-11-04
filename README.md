@@ -1,5 +1,3 @@
-# KQL
-- [KQL Cheat Sheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/kql_cheat_sheet_v01.pdf)
 # Tools
 ## ForensicTools
 - Collection of forensic tools (windows) [Zimmermann Tools](https://ericzimmerman.github.io/#!index.md)
@@ -25,6 +23,9 @@
 - [PentestMonkey](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php)
 
 # Cheatsheets
+## KQL
+- [KQL Cheat Sheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/kql_cheat_sheet_v01.pdf)
+
 ## General
 - [The Ultimate List of SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 - [Blue Team Cheatsheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/BlueTeam-ChrisDavis.pdf) by Chris Davis 
