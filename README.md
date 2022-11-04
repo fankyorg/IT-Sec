@@ -1,3 +1,5 @@
+# KQL
+- [KQL Cheat Sheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/kql_cheat_sheet_v01.pdf)
 # Tools
 ## ForensicTools
 - Collection of forensic tools (windows) [Zimmermann Tools](https://ericzimmerman.github.io/#!index.md)
