@@ -22,6 +22,9 @@
 ### PHP
 - [PentestMonkey](https://github.com/pentestmonkey/php-reverse-shell/blob/master/php-reverse-shell.php)
 
+#Repos
+- [Payload all the things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+
 # Cheatsheets
 ## KQL
 - [KQL Cheat Sheet](https://github.com/fankyorg/IT-Sec/blob/main/Cheatsheets/kql_cheat_sheet_v01.pdf)
