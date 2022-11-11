@@ -3,8 +3,19 @@
 #Variable definitions
 profile="Win10x64_17763"
 patternfile="./vol-grep-pattern.txt"
-memfile="win1809-20210722-infected.mem"
-outputdir="./output"
+memfile="/home/fanky/LABs/SimulationsExam/win1809-20210722-infected.mem"
+outputdir="./procdump"
+virustotaloutput="./virustotaloutput"
+
+##Functions
+#Call virustotal api
+virustotal_call(){
+    curl --request GET \
+     --url https://www.virustotal.com/api/v3/files/$1 \
+     --header 'accept: application/json' \
+     --header 'x-apikey:replacewithyourownapikey'
+} > "$virustotaloutput/""$hash"".json"
+
 
 #Check patternfile
 if ! [[ -f "$patternfile" ]]
@@ -20,10 +31,15 @@ then
   exit
 fi
 
-#create outputdir if not exists
+#create outputdirs if not exists
 if ! [[ -d "$outputdir" ]]
 then
     mkdir $outputdir
+fi
+
+if ! [[ -d "$virustotaloutput" ]]
+then
+    mkdir $virustotaloutput
 fi
 
 #run volatility 
@@ -43,3 +59,12 @@ for file in $outputdir/*
 do
     md5sum $file >> $outputdir/md5sum.txt
 done
+
+#virustotal_call "$hash"
+hashes=$(awk '{print $1}' $outputdir/md5sum.txt)
+exenames=$(awk '{print $2}' $outputdir/md5sum.txt)
+
+for hash in $hashes
+do
+    virustotal_call "$hash"
+done 
