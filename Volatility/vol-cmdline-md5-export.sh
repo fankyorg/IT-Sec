@@ -16,7 +16,6 @@ virustotal_call(){
      --header 'x-apikey:replacewithyourownapikey'
 } > "$virustotaloutput/""$hash"".json"
 
-
 #Check patternfile
 if ! [[ -f "$patternfile" ]]
 then
@@ -60,7 +59,6 @@ do
     md5sum $file >> $outputdir/md5sum.txt
 done
 
-#virustotal_call "$hash"
 hashes=$(awk '{print $1}' $outputdir/md5sum.txt)
 exenames=$(awk '{print $2}' $outputdir/md5sum.txt)
 
