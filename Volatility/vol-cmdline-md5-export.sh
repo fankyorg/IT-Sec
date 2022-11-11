@@ -3,7 +3,7 @@
 #Variable definitions
 profile="Win10x64_17763"
 patternfile="./vol-grep-pattern.txt"
-memfile="/home/fanky/LABs/SimulationsExam/win1809-20210722-infected.mem"
+memfile="win1809-20210722-infected.mem"
 outputdir="./output"
 
 #Check patternfile
