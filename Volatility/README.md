@@ -1,7 +1,7 @@
 # Volatility
 ## Scripts
 ### vol-cmdline-md5-export.sh
-1. Get your API-key from [Virrustotal](https://www.virustotal.com/gui/my-apikey)
+1. Get your API-key from [Virustotal](https://www.virustotal.com/gui/my-apikey)
 2. Download the [script](https://github.com/fankyorg/IT-Sec/blob/main/Volatility/vol-cmdline-md5-export.sh)
 3. Download the [grep pattern script](https://github.com/fankyorg/IT-Sec/blob/main/Volatility/vol-grep-pattern.txt) or create your own.
 4. Define your variables
