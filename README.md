@@ -70,5 +70,5 @@
 # Links
 - [IT-Forensik Wiki](https://it-forensik.fiw.hs-wismar.de/index.php/Hauptseite)
 - National Software Reference Library [NSRL](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl)
-- API Call [circl.lu](https://circl.lu/services/hashlookup/)
-- [Hashsets](https://www.hashsets.com/nsrl/national_software_reference_library_search.php)
+  - API Call [circl.lu](https://circl.lu/services/hashlookup/)
+  - [Hashsets](https://www.hashsets.com/nsrl/national_software_reference_library_search.php)
