@@ -69,6 +69,24 @@
 
 # Links
 - [IT-Forensik Wiki](https://it-forensik.fiw.hs-wismar.de/index.php/Hauptseite)
+
+## Checks
+### check for known good hash
 - National Software Reference Library [NSRL](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl)
   - API Call [circl.lu](https://circl.lu/services/hashlookup/)
   - [Hashsets](https://www.hashsets.com/nsrl/national_software_reference_library_search.php)
+### check for known bad hash / IP addresses
+- [virustotal.com](https://www.virustotal.com/gui/)
+- [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
+## User Agent
+- [User-agents.net](https://user-agents.net)
+## Malware analysis / sandbox
+- [Any run](https://app.any.run/)
+- [JOE Sandbox](https://www.joesandbox.com/)
+- IP information[ipinfo.io](https://ipinfo.io/) enter IP after the dash
+- URL scanner [urlscan.io](https://urlscan.io/)
+## CTI
+- [abuse.ch](https://abuse.ch/)
+## Malware samples
+- [Malware Bazaar](https://bazaar.abuse.ch/)
+- [Malshare](https://malshare.com/)
