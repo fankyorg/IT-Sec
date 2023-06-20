@@ -79,7 +79,8 @@
 - [virustotal.com](https://www.virustotal.com/gui/)
 - [Metadefender Cloud - OPSWAT](https://metadefender.opswat.com/)
 ## User Agent
-- [User-agents.net](https://user-agents.net)
+- Lookup for user agents [User-agents.net](https://user-agents.net)
+- List of bot user agents [GitHub Repo](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/_generator_lists/bad-user-agents.list)
 ## Malware analysis / sandbox
 - [Any run](https://app.any.run/)
 - [JOE Sandbox](https://www.joesandbox.com/)
