@@ -82,8 +82,10 @@
 - Lookup for user agents [User-agents.net](https://user-agents.net)
 - List of bot user agents [GitHub Repo](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker/blob/master/_generator_lists/bad-user-agents.list)
 ## Malware analysis / sandbox
+- OpenSource [CAPE sandbox](https://capesandbox.com/)
 - [Any run](https://app.any.run/)
 - [JOE Sandbox](https://www.joesandbox.com/)
+- [tria.ge](https://tria.ge/)
 - IP information[ipinfo.io](https://ipinfo.io/) enter IP after the dash
 - URL scanner [urlscan.io](https://urlscan.io/)
 ## CTI
