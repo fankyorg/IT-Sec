@@ -70,6 +70,7 @@
 # Links
 - [IT-Forensik Wiki](https://it-forensik.fiw.hs-wismar.de/index.php/Hauptseite)
 - [Open Source Incident repsonse documentation tool](https://dfir-iris.org/)
+- website for collecting information about the different wireless hotspots around the world[wigle.net](https://wigle.net/)
 
 ## Checks
 ### check for known good hash
