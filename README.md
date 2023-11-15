@@ -95,3 +95,6 @@
 ## Malware samples
 - [Malware Bazaar](https://bazaar.abuse.ch/)
 - [Malshare](https://malshare.com/)
+## Living of the land
+- A great collection of resources to thrive off the land [Living Off the Living Off the Land](https://lolol.farm/)
+
