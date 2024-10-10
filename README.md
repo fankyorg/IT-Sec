@@ -92,6 +92,9 @@
 - URL scanner [urlscan.io](https://urlscan.io/)
 ## CTI
 - [abuse.ch](https://abuse.ch/)
+### Ransomware tracking sites
+- [Ransomware](https://www.ransomware.live/)
+- [Ransomlook](https://www.ransomlook.io/)
 ## Malware samples
 - [Malware Bazaar](https://bazaar.abuse.ch/)
 - [Malshare](https://malshare.com/)
